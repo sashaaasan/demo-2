@@ -1,0 +1,17 @@
+.filters1 {
+  position: absolute;
+  right: 150px;
+  top: 50px;
+}
+.filters2 {
+  position: absolute;
+  right: 290px;
+  top: 50px;
+}
+.filter {
+  right: 430px;
+  top: 52px;
+  position: absolute;
+  display: flex;
+  color: grey;
+}

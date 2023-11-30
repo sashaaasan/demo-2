@@ -1,0 +1,34 @@
+.innerBox {
+  max-width: 1200px;
+  height: 500px;
+  border: 1px solid #000;
+  margin-top: 70px;
+  margin-left: 30px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  background-color: white;
+}
+.icons {
+  display: flex;
+  justify-content: space-between;
+}
+.iconsText {
+  margin-right: 40px;
+  padding-left: 10px;
+}
+.userCard {
+  width: 94%;
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  text-align: center;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.userAvatar {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-right: 10px;
+}

@@ -1,0 +1,32 @@
+.container {
+  display: flex;
+  padding: 10px;
+  width: 100%;
+}
+.main {
+  flex: 1;
+}
+.outerBox {
+  max-width: 1200px;
+  height: 600px;
+  padding: 10px;
+  background-color: rgb(197, 196, 196);
+  margin-left: 10px;
+  position: relative;
+}
+.line2 {
+  border-left: 1px solid #000000;
+  height: 620px;
+  position: absolute;
+}
+.contactList {
+  width: 40px;
+  height: 40px;
+  padding-left: 50px;
+  padding-top: 20px;
+  position: absolute;
+}
+.listText {
+  padding-left: 100px;
+  position: absolute;
+}
